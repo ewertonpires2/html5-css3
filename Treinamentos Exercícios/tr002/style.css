@@ -1,0 +1,21 @@
+@charset "UTF-8"
+
+<style>
+@import url('https://fonts.cdnfonts.com/css/avenir');
+
+div > p {
+    display: contents;
+}
+
+div:hover > p {
+    display: block;
+    color: white;
+    background-color: blue;
+    width: 300px;
+}
+body {
+    font-family: 'Avenir', sans-serif;
+    
+}
+
+</style>
