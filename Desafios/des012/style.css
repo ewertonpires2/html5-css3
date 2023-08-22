@@ -15,7 +15,10 @@ header h1 {
     margin: 0px;
     padding-top: 50px;
     font-variant: small-caps;
+    
 }
+
+
 
 header p {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
@@ -67,6 +70,7 @@ footer {
     background-color: rgba(0, 0, 0, 0.479);
     display: inline-block;
     padding: 10px;
+    text-shadow: 1px 1px 0px black;
 
     
 }
@@ -76,13 +80,14 @@ footer {
     background-color: rgba(0, 0, 0, 0.479);
     display: inline-block;
     padding: 10px;
+    text-shadow: 1px 1px 0px black;
   
 
 }
 
 .fundo-1 {
     background-image: url(imagens/background001.jpg);
-    background-position: top left;
+    background-position: right center;
     background-attachment: fixed;
     background-size: cover;
     display: block;
@@ -91,7 +96,7 @@ footer {
 
 .fundo-2 {
     background-image: url(imagens/background002.jpg);
-    background-position: top left;
+    background-position: right center;
     background-attachment: fixed;
     background-size: cover;
     display: block;
